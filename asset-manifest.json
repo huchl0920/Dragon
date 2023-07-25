@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Dragon/static/css/main.fc984ab8.chunk.css",
+    "main.js": "/Dragon/static/js/main.781bb567.chunk.js",
+    "runtime-main.js": "/Dragon/static/js/runtime-main.8d069821.js",
+    "static/css/2.181b26d5.chunk.css": "/Dragon/static/css/2.181b26d5.chunk.css",
+    "static/js/2.ab47da54.chunk.js": "/Dragon/static/js/2.ab47da54.chunk.js",
+    "index.html": "/Dragon/index.html",
+    "precache-manifest.e39da76445845be75bded1084ff2e137.js": "/Dragon/precache-manifest.e39da76445845be75bded1084ff2e137.js",
+    "service-worker.js": "/Dragon/service-worker.js",
+    "static/js/2.ab47da54.chunk.js.LICENSE.txt": "/Dragon/static/js/2.ab47da54.chunk.js.LICENSE.txt",
+    "static/js/main.781bb567.chunk.js.LICENSE.txt": "/Dragon/static/js/main.781bb567.chunk.js.LICENSE.txt",
+    "static/media/adaptor.b61c8dc7.svg": "/Dragon/static/media/adaptor.b61c8dc7.svg",
+    "static/media/analyze.svg": "/Dragon/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/Dragon/static/media/angle-up.60d89147.svg",
+    "static/media/ap.23e96553.svg": "/Dragon/static/media/ap.23e96553.svg",
+    "static/media/brandLogo.svg": "/Dragon/static/media/brandLogo.1a73cb75.svg",
+    "static/media/circlereset.0114bb7b.svg": "/Dragon/static/media/circlereset.0114bb7b.svg",
+    "static/media/diagSwitch.e1928c56.svg": "/Dragon/static/media/diagSwitch.e1928c56.svg",
+    "static/media/errorboundary.svg": "/Dragon/static/media/errorboundary.f0a0e582.svg",
+    "static/media/loginECP106.4d20e219.svg": "/Dragon/static/media/loginECP106.4d20e219.svg",
+    "static/media/loginECP214.e30e592a.svg": "/Dragon/static/media/loginECP214.e30e592a.svg",
+    "static/media/monitor.5c3c6f1f.svg": "/Dragon/static/media/monitor.5c3c6f1f.svg",
+    "static/media/outlet.e167465c.svg": "/Dragon/static/media/outlet.e167465c.svg",
+    "static/media/outletBase.93a68a06.svg": "/Dragon/static/media/outletBase.93a68a06.svg",
+    "static/media/outletIcon.54393642.svg": "/Dragon/static/media/outletIcon.54393642.svg",
+    "static/media/phone.5e6fb68d.svg": "/Dragon/static/media/phone.5e6fb68d.svg",
+    "static/media/printer.397703c1.svg": "/Dragon/static/media/printer.397703c1.svg",
+    "static/media/reset.4e133780.svg": "/Dragon/static/media/reset.4e133780.svg",
+    "static/media/index.css": "/Dragon/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/router.87781f06.svg": "/Dragon/static/media/router.87781f06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d069821.js",
+    "static/css/2.181b26d5.chunk.css",
+    "static/js/2.ab47da54.chunk.js",
+    "static/css/main.fc984ab8.chunk.css",
+    "static/js/main.781bb567.chunk.js"
+  ]
+}
