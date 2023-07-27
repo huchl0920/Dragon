@@ -2,9 +2,12 @@
 <html>
 <head>
   <script>
-    // 使用 JavaScript 重新導向到 index.html
-    // 這樣當用戶重整頁面時，會重新導向到 SPA 的首頁，並由前端處理路由
-    window.location.replace("/index.html");
+    // 使用 JavaScript 獲取重整前停留的頁面 URL
+    var previousPage = document.referrer;
+
+    // 使用 JavaScript 重新導向到重整前停留的頁面
+    // 如果無法獲取到上一個頁面的 URL，則導向到預設的首頁 (例如：index.html)
+    window.location.replace(previousPage || "/index.html");
   </script>
 </head>
 <body>
