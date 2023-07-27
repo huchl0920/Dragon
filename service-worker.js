@@ -1,7 +1,21 @@
-// service-worker.js
+/**
+ * Welcome to your Workbox-powered service worker!
+ *
+ * You'll need to register this file in your web app and you should
+ * disable HTTP caching for this file too.
+ * See https://goo.gl/nhQhGp
+ *
+ * The rest of the code is auto-generated. Please don't update this file
+ * directly; instead, make changes to your Workbox build configuration
+ * and re-run your build process.
+ * See https://goo.gl/2aRDsh
+ */
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
-importScripts("/Dragon/precache-manifest.5664db59b365cde4c414901c64b0da8c.js");
+
+importScripts(
+  "/Dragon/precache-manifest.cf50628d369f482908fd4575c837956b.js"
+);
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
@@ -9,30 +23,17 @@ self.addEventListener('message', (event) => {
   }
 });
 
-// 修改 fetch 事件的處理邏輯
-self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    caches.match(event.request).then(function(response) {
-      if (response) {
-        return response;
-      }
-
-      // 捕捉到 404 錯誤頁面的請求
-      if (event.request.mode === 'navigate' || (event.request.method === 'GET' && event.request.headers.get('accept').includes('text/html'))) {
-        // 將用戶重新導向到 SPA 的首頁
-        return fetch('/Dragon/index.html');
-      }
-
-      return fetch(event.request);
-    })
-  );
-});
-
 workbox.core.clientsClaim();
 
+/**
+ * The workboxSW.precacheAndRoute() method efficiently caches and responds to
+ * requests for URLs in the manifest.
+ * See https://goo.gl/S9QRab
+ */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Dragon/index.html"), {
+  
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
