@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c950557a7a56a952018f3c9c35230b67",
+    "revision": "6a91c3c3ae10653a87a3e90fe80a235d",
     "url": "/Dragon/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dragon/static/css/2.181b26d5.chunk.css"
   },
   {
-    "revision": "e3c67d6d4d4f20d7d52b",
+    "revision": "847ca3e718a640a301e2",
     "url": "/Dragon/static/css/main.fc984ab8.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dragon/static/js/2.7e9822e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3c67d6d4d4f20d7d52b",
-    "url": "/Dragon/static/js/main.4d9e92d1.chunk.js"
+    "revision": "847ca3e718a640a301e2",
+    "url": "/Dragon/static/js/main.587716a5.chunk.js"
   },
   {
     "revision": "a9343404dcaa1d2465c77391834ce744",
-    "url": "/Dragon/static/js/main.4d9e92d1.chunk.js.LICENSE.txt"
+    "url": "/Dragon/static/js/main.587716a5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "a62dfd99f039196707b0",
