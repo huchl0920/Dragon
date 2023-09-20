@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dragon/precache-manifest.3d46954c85bb5a26827f8a308b93c7a6.js"
+  "/Dragon/precache-manifest.99869e00ff5bdfc5c9ed88b864a38530.js"
 );
 
 self.addEventListener('message', (event) => {

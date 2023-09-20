@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/Dragon/static/css/main.fc984ab8.chunk.css",
-    "main.js": "/Dragon/static/js/main.5ecf7ce6.chunk.js",
+    "main.css": "/Dragon/static/css/main.472e1cf0.chunk.css",
+    "main.js": "/Dragon/static/js/main.28bd2272.chunk.js",
     "runtime-main.js": "/Dragon/static/js/runtime-main.8d069821.js",
     "static/css/2.181b26d5.chunk.css": "/Dragon/static/css/2.181b26d5.chunk.css",
-    "static/js/2.596dffa3.chunk.js": "/Dragon/static/js/2.596dffa3.chunk.js",
+    "static/js/2.fff58875.chunk.js": "/Dragon/static/js/2.fff58875.chunk.js",
     "index.html": "/Dragon/index.html",
-    "precache-manifest.3d46954c85bb5a26827f8a308b93c7a6.js": "/Dragon/precache-manifest.3d46954c85bb5a26827f8a308b93c7a6.js",
+    "precache-manifest.99869e00ff5bdfc5c9ed88b864a38530.js": "/Dragon/precache-manifest.99869e00ff5bdfc5c9ed88b864a38530.js",
     "service-worker.js": "/Dragon/service-worker.js",
-    "static/js/2.596dffa3.chunk.js.LICENSE.txt": "/Dragon/static/js/2.596dffa3.chunk.js.LICENSE.txt",
-    "static/js/main.5ecf7ce6.chunk.js.LICENSE.txt": "/Dragon/static/js/main.5ecf7ce6.chunk.js.LICENSE.txt",
+    "static/js/2.fff58875.chunk.js.LICENSE.txt": "/Dragon/static/js/2.fff58875.chunk.js.LICENSE.txt",
+    "static/js/main.28bd2272.chunk.js.LICENSE.txt": "/Dragon/static/js/main.28bd2272.chunk.js.LICENSE.txt",
     "static/media/adaptor.b61c8dc7.svg": "/Dragon/static/media/adaptor.b61c8dc7.svg",
     "static/media/analyze.svg": "/Dragon/static/media/analyze.338be757.svg",
     "static/media/angle-up.60d89147.svg": "/Dragon/static/media/angle-up.60d89147.svg",
     "static/media/ap.23e96553.svg": "/Dragon/static/media/ap.23e96553.svg",
-    "static/media/brandLogo.svg": "/Dragon/static/media/brandLogo.1a73cb75.svg",
+    "static/media/brandLogo.svg": "/Dragon/static/media/brandLogo.71a2d2f2.svg",
     "static/media/circlereset.0114bb7b.svg": "/Dragon/static/media/circlereset.0114bb7b.svg",
     "static/media/diagSwitch.e1928c56.svg": "/Dragon/static/media/diagSwitch.e1928c56.svg",
     "static/media/errorboundary.svg": "/Dragon/static/media/errorboundary.f0a0e582.svg",
-    "static/media/loginECP106.4d20e219.svg": "/Dragon/static/media/loginECP106.4d20e219.svg",
-    "static/media/loginECP214.e30e592a.svg": "/Dragon/static/media/loginECP214.e30e592a.svg",
     "static/media/monitor.5c3c6f1f.svg": "/Dragon/static/media/monitor.5c3c6f1f.svg",
     "static/media/outlet.e167465c.svg": "/Dragon/static/media/outlet.e167465c.svg",
     "static/media/outletBase.93a68a06.svg": "/Dragon/static/media/outletBase.93a68a06.svg",
@@ -33,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.8d069821.js",
     "static/css/2.181b26d5.chunk.css",
-    "static/js/2.596dffa3.chunk.js",
-    "static/css/main.fc984ab8.chunk.css",
-    "static/js/main.5ecf7ce6.chunk.js"
+    "static/js/2.fff58875.chunk.js",
+    "static/css/main.472e1cf0.chunk.css",
+    "static/js/main.28bd2272.chunk.js"
   ]
 }
