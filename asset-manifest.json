@@ -1,15 +1,14 @@
 {
   "files": {
     "main.css": "/Dragon/static/css/main.472e1cf0.chunk.css",
-    "main.js": "/Dragon/static/js/main.28bd2272.chunk.js",
+    "main.js": "/Dragon/static/js/main.72e0f5db.chunk.js",
     "runtime-main.js": "/Dragon/static/js/runtime-main.8d069821.js",
     "static/css/2.181b26d5.chunk.css": "/Dragon/static/css/2.181b26d5.chunk.css",
     "static/js/2.fff58875.chunk.js": "/Dragon/static/js/2.fff58875.chunk.js",
     "index.html": "/Dragon/index.html",
-    "precache-manifest.99869e00ff5bdfc5c9ed88b864a38530.js": "/Dragon/precache-manifest.99869e00ff5bdfc5c9ed88b864a38530.js",
+    "precache-manifest.73c26be18f1e9cabdf804aaaa49ae05a.js": "/Dragon/precache-manifest.73c26be18f1e9cabdf804aaaa49ae05a.js",
     "service-worker.js": "/Dragon/service-worker.js",
     "static/js/2.fff58875.chunk.js.LICENSE.txt": "/Dragon/static/js/2.fff58875.chunk.js.LICENSE.txt",
-    "static/js/main.28bd2272.chunk.js.LICENSE.txt": "/Dragon/static/js/main.28bd2272.chunk.js.LICENSE.txt",
     "static/media/adaptor.b61c8dc7.svg": "/Dragon/static/media/adaptor.b61c8dc7.svg",
     "static/media/analyze.svg": "/Dragon/static/media/analyze.338be757.svg",
     "static/media/angle-up.60d89147.svg": "/Dragon/static/media/angle-up.60d89147.svg",
@@ -33,6 +32,6 @@
     "static/css/2.181b26d5.chunk.css",
     "static/js/2.fff58875.chunk.js",
     "static/css/main.472e1cf0.chunk.css",
-    "static/js/main.28bd2272.chunk.js"
+    "static/js/main.72e0f5db.chunk.js"
   ]
 }
